@@ -2,3 +2,6 @@
 ** TODO Mashable: How Dropbox scaled http://mashable.com/2013/07/30/dropbox-scaling/
 ** TODO Rajiv Eranki's notes on Dropbox scaling http://eranki.tumblr.com/post/27076431887/scaling-lessons-learned-at-dropbox-part-1
 ** TODO Dan Abel - Tech Lead articles http://www.engineeringandcareering.co.uk/2013/07/technical-lead-articles-and-blogs.html
+* Politics
+** TODO Kesavananda Bharati ... vs State Of Kerala And Anr on 24 April, 1973 http://www.indiankanoon.org/doc/257876/
+** TODO Kesavananda Bharati Case - The untold story of struggle for supremacy by Supreme Court and Parliament - http://www.amazon.in/dp/B007Q0I6GC
