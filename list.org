@@ -1,0 +1,4 @@
+* Tech
+** TODO Mashable: How Dropbox scaled http://mashable.com/2013/07/30/dropbox-scaling/
+** TODO Rajiv Eranki's notes on Dropbox scaling http://eranki.tumblr.com/post/27076431887/scaling-lessons-learned-at-dropbox-part-1
+** TODO Dan Abel - Tech Lead articles http://www.engineeringandcareering.co.uk/2013/07/technical-lead-articles-and-blogs.html
