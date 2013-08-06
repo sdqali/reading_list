@@ -1,9 +1,18 @@
 * Tech
-** TODO Mashable: How Dropbox scaled http://mashable.com/2013/07/30/dropbox-scaling/
-** TODO Rajiv Eranki's notes on Dropbox scaling http://eranki.tumblr.com/post/27076431887/scaling-lessons-learned-at-dropbox-part-1
-** TODO Dan Abel - Tech Lead articles http://www.engineeringandcareering.co.uk/2013/07/technical-lead-articles-and-blogs.html
+** DONE Mashable: How Dropbox scaled http://mashable.com/2013/07/30/dropbox-scaling/
+   CLOSED: [2013-08-05 Mon 22:46]
+** DONE Rajiv Eranki's notes on Dropbox scaling http://eranki.tumblr.com/post/27076431887/scaling-lessons-learned-at-dropbox-part-1
+   CLOSED: [2013-08-05 Mon 22:46]
+** DOING Dan Abel - Tech Lead articles http://www.engineeringandcareering.co.uk/2013/07/technical-lead-articles-and-blogs.html
 ** DONE The geeks guide to leading teams  https://www.youtube.com/watch?v=N9UPW-2wL5U&feature=youtu.be
-
+   CLOSED: [2013-08-05 Mon 22:46]
+** DONE tidy code for asynchronous IO http://stackoverflow.com/questions/883156/tidy-code-for-asynchronous-io
+   CLOSED: [2013-08-05 Mon 22:50]
+** DOING Graph Databases - Ian Robinson, et. al.
+** DONE Great mistakes in technical leadership http://www.mroodles.com/wordpress/hacking/great-mistakes-in-technical-leadership-reprint/
+   CLOSED: [2013-08-05 Mon 23:29]
+** DONE Becoming a Tech Lead http://annejsimmons.com/2012/08/04/becoming-a-tech-lead/
+   CLOSED: [2013-08-05 Mon 23:41]
 * Politics
 ** TODO Kesavananda Bharati ... vs State Of Kerala And Anr on 24 April, 1973 http://www.indiankanoon.org/doc/257876/
 ** TODO Kesavananda Bharati Case - The untold story of struggle for supremacy by Supreme Court and Parliament - http://www.amazon.in/dp/B007Q0I6GC
